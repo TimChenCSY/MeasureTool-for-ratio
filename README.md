@@ -1,4 +1,5 @@
-# MeasureTool-for-ratio
+# MeasureTool for Ratios and degrees onscreen
+
 
 
 this is a tool for people to quickly measure a sales and degrees on screen
