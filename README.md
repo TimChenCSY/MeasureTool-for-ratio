@@ -51,7 +51,7 @@ User Manual | 用户手册:
         Press 'Ctrl + z' to undo last action. | 按 'Ctrl + z' 撤销上一个操作。
         Press 'Ctrl + r' to clear all drawings. | 按 'Ctrl + r' 清除所有绘图。
         
-        - Exit:i
+        - Exit:
         Press 'Escape' or 'Ctrl + w' to exit program. | 按 'Escape' 或 'Ctrl + w' 退出程序。
 
         - Settings:
